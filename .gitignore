@@ -45,5 +45,3 @@ Logs/
 # UserSettings
 UserSettings/
 
-# Package Manager
-Packages/packages-lock.json
