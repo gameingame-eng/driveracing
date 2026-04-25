@@ -22,6 +22,7 @@
 + *.anim text eol=lf
 + *.controller text eol=lf
 + *.mask text eol=lf
++ *.dae text eol=lf
 + 
 + # Binary files should not be normalized
 + *.png binary
