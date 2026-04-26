@@ -39,6 +39,7 @@
 + *.jar binary
 + *.zip binary
 + *.unitypackage binary
-+ 
++ *.wlt linguist-language=Unity3D_Asset
+
 
   
